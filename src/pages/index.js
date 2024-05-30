@@ -22,7 +22,7 @@ const BigdataAnalyticsHomePage = () => (
     <DiscoverArea />
     <Services />
     <TeamStyleTwo />
-    <BigdataFunFacts />
+    <BigdataFunFacts /> 
     <Feedback />
     <IndustriesWeServe />
     <BlogPost />

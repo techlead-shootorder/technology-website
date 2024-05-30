@@ -68,10 +68,10 @@ const NavbarStyleFour = () => {
                     onClick={e => e.preventDefault()}
                     className="nav-link"
                   >
-                    Home <Icon.ChevronDown />
+                    Home 
                   </Link>
 
-                  <ul className="dropdown-menu">
+                  {/* <ul className="dropdown-menu">
                     <li className="nav-item">
                       <Link
                         to="/it-startup"
@@ -181,7 +181,7 @@ const NavbarStyleFour = () => {
                         PC Repair
                       </Link>
                     </li>
-                  </ul>
+                  </ul> */}
                 </li>
 
                 <li className="nav-item">
@@ -235,7 +235,7 @@ const NavbarStyleFour = () => {
                     onClick={e => e.preventDefault()}
                     className="nav-link"
                   >
-                    Pages <Icon.ChevronDown />
+                    Services <Icon.ChevronDown />
                   </Link>
 
                   <ul className="dropdown-menu">
